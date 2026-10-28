@@ -1,18 +1,12 @@
-<div align="center">
+# MAYES1k
 
-<br/><br/>
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/1526947200398131241?theme=dark&bg=0D1117&borderRadius=12px&showDisplayName=true" alt="Discord Rich Presence" />
+</p>
 
-<p>
-    <img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="32" alt="Java" title="Java" />\&nbsp;\&nbsp;\&nbsp;\&nbsp;
-    <img src="https://cdn.simpleicons.org/python/3776AB" width="32" alt="Python" title="Python" />\&nbsp;\&nbsp;\&nbsp;\&nbsp;
-    <img src="https://cdn.simpleicons.org/typescript/3178C6" width="32" alt="TypeScript" title="TypeScript" />
-  </p>
-
-<br/>
-
-<a href="https://discord.com/users/1526947200398131241">
-    <img src="https://discord-activity-card.vercel.app/api/status/1526947200398131241?profile=true\&decoration=true\&small\_image=true\&name\_type=display\&bg=0d1117\&border=30363d\&title=ffffff\&name\_color=ffffff\&text=8b949e\&time=8b949e\&bar\_bg=21262d\&bar\_fg=ffffff" alt="Discord Activity" />
-  </a>
-
-</div>
+<p align="center">
+  <a href="https://discord.com/users/1526947200398131241">Discord Profile</a>
+  •
+  <a href="https://mayes1k.ct.ws/">Portfolio</a>
+</p>
 
