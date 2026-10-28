@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="[https://i.postimg.cc/N0NJqNF8/match-cut.gif](https://cars.caravenuemercedes.be/wp-content/uploads/sites/5/2023/02/Mercedes-AMG-Classe-A-Hatchback-13.jpg)" width="500" alt="image" />
+  <img src="https://cars.caravenuemercedes.be/wp-content/uploads/sites/5/2023/02/Mercedes-AMG-Classe-A-Hatchback-13.jpg" width="500" alt="image" />
 
   <br/><br/>
 </p>
