@@ -5,7 +5,6 @@
   <br/><br/>
 </p>
       <img src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png" width="32" alt="Python" title="Python" />
-      <br/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="36" alt="HTML" title="HTML" /> 
       <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/css.svg" width="25" alt="CSS" title="CSS" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="32" alt="Lua" title="Lua" />
