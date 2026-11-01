@@ -5,6 +5,8 @@
   <br/><br/>
 </p>
       <img src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png" width="32" alt="Python" title="Python" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="32" alt="HTML" title="HTML" /> 
+      <img src="https://cdn.simpleicons.org/typescript/3178C6" width="32" alt="TypeScript" title="TypeScript" />
       <img src="https://cdn.simpleicons.org/typescript/3178C6" width="32" alt="TypeScript" title="TypeScript" />
 </p>      
 <p align="center">
