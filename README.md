@@ -13,7 +13,7 @@
 🎮 Discord Rich Presence
 
 <a href="https://discord.com/users/TON_DISCORD_ID">
-<img src="https://lanyard.cnrad.dev/api/TON_DISCORD_ID?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=15px" alt="Discord Presence" />
+<img src="https://lanyard.cnrad.dev/api/1526947200398131241?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=15px" alt="Discord Presence" />
 </a>
 
 </div>
